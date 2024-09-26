@@ -1,2 +1,4 @@
 # fastapi-project
-This repository provides a simple Todo App built with FastAPI
+
+![screenshot](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/fastapi_img.png)
+
