@@ -1,15 +1,16 @@
 from fastapi import FastAPI
 from models import Todo
 
+#instantiate the FastAPI class with the following command
 app = FastAPI()
 
-@app.get("/")
-async def root():
-    return {"message": "Hello World"}
+
 
 todos = []
 
 #get all todos
+##The @app.get('/') decorator defines a route in our program.
+#Any changes made below it will be accessible at the root path ('/').
 @app.get("/todos")
 async def create_todos(todo: Todo):
     todos.append(Todo)
