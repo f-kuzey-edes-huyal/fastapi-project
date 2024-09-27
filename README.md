@@ -12,13 +12,13 @@ FastAPI is a popular tool used for deploying machine learning models. In this re
 6.  Built-in authentication support.
 7.  Swagger UI built-in for easy API documentation.
 
-# Step 1
+### Step 1
 Open the command prompt and enter the following command to navigate to the Desktop
 
 ```
 cd Desktop
 ```
-# Step 2 
+### Step 2 
 Create a FastAPI project folder by running the following command in the command prompt
 
 
@@ -26,21 +26,21 @@ Create a FastAPI project folder by running the following command in the command 
 mkdir fastapi-project
 ```
 
-## Step 3 
+### Step 3 
 Go to fastapi-project folder
 
 ```
 cd fastapi-project
 
 ```
-## Step 4
+### Step 4
 
 Create your virtual environment
 
 ```
 python -m venv venv
 ```
-## Step 5
+### Step 5
 
 Open Visual Studio Code by entering the following command in the command prompt
 
@@ -48,7 +48,7 @@ Open Visual Studio Code by entering the following command in the command prompt
 code .
 ```
 
-## Step 6
+### Step 6
 
 Activate the virtual environment you created earlier by running the following command
 
@@ -56,7 +56,7 @@ Activate the virtual environment you created earlier by running the following co
 .venv/Scripts/activate
 ```
 
-## Step 7
+### Step 7
 
 Install FastAPI
 
@@ -64,7 +64,7 @@ Install FastAPI
 pip install fastapi
 ```
 
-## Step 8
+### Step 8
 
 Install Uvicorn, which is the server that will run our API
 
@@ -77,11 +77,11 @@ pip install "uvicorn[standard]"
 
 ```
 
-## Step 9
+### Step 9
 
 Navigate to the ```fastapi-project``` folder and create a [```main.py```](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/main.py) file. 
 
-# Step 10
+### Step 10
 
 ```
 uvicorn main:app --reload
