@@ -90,7 +90,7 @@ Run Uvicorn using the code below. If you encounter a syntax error while updating
 uvicorn main:app --reload
 
 ```
-You will see a message in your terminal like: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit). Copy the link provided and append /docs to it, resulting in http://127.0.0.1:8000/docs. If you open this link in a web browser, you will see the user interface for your Todo App, as shown below.
+You will see a message in your terminal like: "Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)". Copy the link provided and append /docs to it, resulting in http://127.0.0.1:8000/docs. If you open this link in a web browser, you will see the user interface for your Todo App, as shown below.
 
 <img src="[https://github.com/favicon.ico](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/fastapi_img.png)" width="15">
 
