@@ -12,21 +12,15 @@ FastAPI is a popular tool used for deploying machine learning models. In this re
 6.  Built-in authentication support.
 7.  Swagger UI built-in for easy API documentation.
 
-## Step 1
+# Step 1
 Open the command prompt and enter the following command to navigate to the Desktop
 
 ```
 cd Desktop
 ```
-## Step 2 
+# Step 2 
 Create a FastAPI project folder by running the following command in the command prompt
 
-## Step 10
-
-```
-uvicorn main:app --reload
-
-```
 
 ```
 mkdir fastapi-project
@@ -87,6 +81,12 @@ pip install "uvicorn[standard]"
 
 Navigate to the ```fastapi-project``` folder and create a [```main.py```](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/main.py) file. 
 
+# Step 10
+
+```
+uvicorn main:app --reload
+
+```
 
 
 <img src="[https://github.com/favicon.ico](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/fastapi_img.png)" width="15">
