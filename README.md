@@ -1,8 +1,22 @@
 # fastapi-project
 
-I followed the steps from Travis Media's [video](https://www.youtube.com/watch?v=cbASjoZZGIw) titled 'Why You Need to Learn FastAPI | Hands-on Project.'
+APIs (Application Programming Interfaces) allow different software systems to interact with each other. They can be explained in terms of two components: the client and the server [^1].. When you check your bank account using a mobile app, the mobile app acts as the client, while the relevant bank's database is referred to as the server.
+
+FastAPI is a popular tool used for deploying machine learning models. In this repository, I will explain the steps I followed from Travis Media's [video](https://www.youtube.com/watch?v=cbASjoZZGIw) titled 'Why You Need to Learn FastAPI | Hands-on Project.' Before explaining the coding steps, let's go over the 7 reasons for choosing FastAPI, as mentioned in the video: (If you want to learn about the cons of FastAPI, click the [link](https://medium.com/sciforce/serving-ml-model-as-an-api-sharing-our-experience-aab8fbfdc27d).)
+
+1.  It’s just plain Python.
+2.  Handles requests asynchronously.
+3.  Built-in data validation.
+4.  Allows type declarations in Python.
+5.  Clear error handling in JSON format.
+6.  Built-in authentication support.
+7.  Swagger UI built-in for easy API documentation.
+
 
 <img src="[https://github.com/favicon.ico](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/fastapi_img.png)" width="15">
 
 ![screenshot](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/fastapi_img.png)
+
+
+[^1]: [Reference](https://aws.amazon.com/what-is/api/)
 
