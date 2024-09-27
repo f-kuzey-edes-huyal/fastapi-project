@@ -12,7 +12,7 @@ FastAPI is a popular tool used for deploying machine learning models. In this re
 6.  Built-in authentication support.
 7.  Swagger UI built-in for easy API documentation.
 
-### Step 1
+#### Step 1
 Open the command prompt and enter the following command to navigate to the Desktop
 
 ```
