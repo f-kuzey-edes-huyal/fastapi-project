@@ -14,9 +14,8 @@ FastAPI is a popular tool used for deploying machine learning models. In this re
 
 ## Step 1
 Open the command prompt and enter the following command to navigate to the Desktop
-'''
-cd Desktop
-'''
+
+'''cd Desktop'''
 ## Step 2 
 Create a FastAPI project folder by running the following command in the command prompt
 
