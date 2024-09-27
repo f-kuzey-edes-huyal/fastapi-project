@@ -15,60 +15,61 @@ FastAPI is a popular tool used for deploying machine learning models. In this re
 ## Step 1
 Open the command prompt and enter the following command to navigate to the Desktop
 
-'''cd Desktop'''
+```cd Desktop
+```
 ## Step 2 
 Create a FastAPI project folder by running the following command in the command prompt
 
-'''
+```
 mkdir fastapi-project
-'''
+```
 
 ## Step 3 
 Go to fastapi-project folder
 
-'''
+```
 cd fastapi-project
 
-'''
+```
 ## Step 4
 
 Create your virtual environment
 
-'''
+```
 python -m venv venv
-'''
+```
 ## Step 5
 
 Open Visual Studio Code by entering the following command in the command prompt
 
-'''
+```
 code .
-'''
+```
 
 ## Step 6
 
 Activate the virtual environment you created earlier by running the following command
 
-'''
+```
 .venv/Scripts/activate
-'''
+```
 
 ## Step 7
 
 Install FastAPI
 
-'''
+```
 pip install fastapi
-'''
+```
 
 ## Step 8
 
 Install Uvicorn, which is the server that will run our AP
 
-'''
+```
 pip install "uvicorn[standard]"
 
-'''
+```
 
 
 
