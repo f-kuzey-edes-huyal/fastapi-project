@@ -50,8 +50,7 @@ code .
 
 #### Step 6
 
-Activate the virtual environment you created earlier by running the following command
-
+From now on, we will write our code in __Visual Studio Code's terminal__. Activate the virtual environment you created earlier by running the following command in Visual Studio Code's terminal:
 ```
 .venv/Scripts/activate
 ```
