@@ -68,11 +68,16 @@ pip install fastapi
 Install Uvicorn, which is the server that will run our AP
 
 ```
+python -m pip install -upgrade pip
+
+```
 pip install "uvicorn[standard]"
 
 ```
 
+## Step 9
 
+Navigate to the ```fastapi-project``` folder and create a (```main.py```) [] file.
 
 
 
