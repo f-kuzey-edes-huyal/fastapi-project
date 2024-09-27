@@ -8,7 +8,7 @@ FastAPI is a popular tool used for deploying machine learning models. In this re
 2.  Handles requests asynchronously.
 3.  Built-in data validation.
 4.  Allows type declarations in Python.
-5.  Clear error handling in JSON format.
+5.  Clear error-handling in JSON format.
 6.  Built-in authentication support.
 7.  Swagger UI built-in for easy API documentation.
 
