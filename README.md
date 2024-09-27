@@ -79,7 +79,7 @@ pip install "uvicorn[standard]"
 
 #### Step 9
 
-Navigate to the ```fastapi-project``` folder and create a [```main.py```](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/main.py) file. 
+Navigate to the ```fastapi-project``` folder and create  [```main.py```](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/main.py) files and [``models.py```](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/models.py). 
 
 #### Step 10
 
