@@ -82,6 +82,7 @@ pip install "uvicorn[standard]"
 Navigate to the ```fastapi-project``` folder and create  [```main.py```](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/main.py) files and [```models.py```](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/models.py). 
 
 #### Step 10
+Run Uvicorn using the code below. If you encounter a syntax error while updating the code, it will stop running. You will need to restart Uvicorn using the command again.
 
 ```
 uvicorn main:app --reload
