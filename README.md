@@ -65,9 +65,9 @@ pip install fastapi
 
 ## Step 8
 
-Install Uvicorn, which is the server that will run our AP
+Install Uvicorn, which is the server that will run our API
 
-'``
+```
 python -m pip install -upgrade pip
 ```
 
