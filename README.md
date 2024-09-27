@@ -50,6 +50,8 @@ code .
 
 #### Step 6
 
+__Warning!!!__ The suggested step for activating the virtual environment was given as ```source venv/bin/activate```. However, I encountered an error: "The term 'source' is not recognized as the name of a cmdlet, function, script file ...". After some unsuccessful attempts, I was able to activate my virtual environment using the following command.
+
 From now on, we will write our code in __Visual Studio Code's terminal__. Activate the virtual environment you created earlier by running the following command in Visual Studio Code's terminal:
 ```
 .venv/Scripts/activate
