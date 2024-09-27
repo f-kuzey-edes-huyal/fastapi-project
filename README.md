@@ -81,7 +81,7 @@ pip install "uvicorn[standard]"
 
 Navigate to the ```fastapi-project``` folder and create  [```main.py```](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/main.py) files and [```models.py```](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/models.py). 
 
-In models.py, you construct a request body, which is the data sent by the client to the API [^2]. You import BaseModel from the Pydantic module to declare your data as a class. 
+In ```models.py```, you construct a request body, which is the data sent by the client to the API [^2]. You import ```BaseModel``` from the ```Pydantic``` module to declare your data as a class. 
 
 #### Step 10
 Run Uvicorn using the code below. If you encounter a syntax error while updating the code, it will stop running. You will need to restart Uvicorn using the command again. 
@@ -97,5 +97,5 @@ You will see a message in your terminal like: Uvicorn running on http://127.0.0.
 ![screenshot](https://github.com/f-kuzey-edes-huyal/fastapi-project/blob/main/fastapi_img.png)
 
 
-[^1]: [Reference](https://aws.amazon.com/what-is/api/)
+[^1]: [Reference 1](https://aws.amazon.com/what-is/api/)
 [^2]: [Refernce 2](https://fastapi.tiangolo.com/tutorial/body/)
